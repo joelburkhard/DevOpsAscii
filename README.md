@@ -34,6 +34,5 @@ https://textik.com
 https://trello.com/b/V4gx50dY/willkommen-bei-trello
 
 test2
-=======
-https://trello.com/b/V4gx50dY/willkommen-bei-trello
->>>>>>> 3ff26331fb618187f5f8eda0ef07eb19d0e8c678
+
+changed some code
