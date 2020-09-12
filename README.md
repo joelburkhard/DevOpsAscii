@@ -30,9 +30,6 @@ https://textik.com
                       |              +---------+                              \|                     
 </pre>
 
-<<<<<<< HEAD
-https://trello.com/b/V4gx50dY/willkommen-bei-trello
-
 test2
 
 changed some code
